@@ -1,4 +1,5 @@
-# GP_reading_group
+# Readings on Gaussian Process
 
-A repository to organize materials for a Gaussian Process reading group at Iowa 
-State University.
+This is the repository for the reading group at Iowa State University. 
+
+We meet every week on __TO BE DETERMINED__ starting on __TO BE DETERMINED__. Check [our schedule](schedule.md) for more information.
